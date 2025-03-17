@@ -9,12 +9,12 @@ hero_image_ratio: is-1by1
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en I1 (cycle pré-Ingénieur)
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[louis.bourbon80@gmail.com](mailto:louis.bourbon@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
